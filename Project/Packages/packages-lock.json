@@ -79,7 +79,7 @@
       }
     },
     "com.unity.ml-agents.extensions": {
-      "version": "file:../../com.unity.ml-agents.extensions",
+      "version": "file:/Users/nacorti/projects/ml-agents/com.unity.ml-agents.extensions",
       "depth": 0,
       "source": "local",
       "dependencies": {
